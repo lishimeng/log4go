@@ -5,8 +5,8 @@ package log4go
 import (
 	"fmt"
 	"os"
-	"time"
 	"strings"
+	"time"
 )
 
 // This log writer sends output to a file

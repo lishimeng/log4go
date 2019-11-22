@@ -11,6 +11,7 @@ import (
 
 var (
 	Global Logger
+	CallerSkip = 2
 )
 
 func init() {
